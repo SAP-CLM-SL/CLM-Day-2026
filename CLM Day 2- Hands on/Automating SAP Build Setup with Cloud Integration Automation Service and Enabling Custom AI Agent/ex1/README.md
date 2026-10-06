@@ -23,7 +23,7 @@ Use the following credentials to log in to SAP BTP.
 
 ## Access the Cloud Integration Automation Service
 
-* Click on the <a href="https://emea.cockpit.btp.cloud.sap/cockpit/?idp=clm-day-01.accounts.ondemand.com#/globalaccount/9d88d4f5-c80a-4986-8a56-dbf4b7b5a223" target="_blank">BTP Global Account</a>
+* Click on the <a href="https://emea.cockpit.btp.cloud.sap/cockpit/?idp=clm-day-01.accounts.ondemand.com#/globalaccount/9d88d4f5-c80a-4986-8a56-dbf4b7b5a223/accountModel&//?view=TilesView&section=SubaccountsSection&entityGuid=9d88d4f5-c80a-4986-8a56-dbf4b7b5a223" target="_blank">BTP Global Account</a>
 * Search for your subaccount listed as **CIAS CLM XX**. Click on the subaccount name to open it.
 > **Note**: Replace **XX** with your user number.
 

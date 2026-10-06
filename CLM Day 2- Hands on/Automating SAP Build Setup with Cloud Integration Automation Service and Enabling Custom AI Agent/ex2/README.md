@@ -84,4 +84,10 @@ You have successfully provisioned the selected SAP Build services on SAP BTP and
 
 ---
 
+## Feedback
+
+Hope you enjoyed the session! We would love to hear your feedback.
+
+![Feedback QR](../images/feedback.png)
+
 **Continue to - [Home Page](../README.md)**
